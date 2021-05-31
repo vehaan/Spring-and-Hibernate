@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Mon May 24 16:56:42 IST 2021
+org.eclipse.jst.jee.server\:/binary\:D\:\\javaworksEE2\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.6.jar=WEB-INF/lib/spring-web-5.3.6.jar
+org.eclipse.jst.jee.server\:/binary\:D\:\\javaworksEE2\\spring-mvc-demo\\WebContent\\WEB-INF\\lib\\spring-web-5.3.6-sources.jar=WEB-INF/lib/spring-web-5.3.6-sources.jar

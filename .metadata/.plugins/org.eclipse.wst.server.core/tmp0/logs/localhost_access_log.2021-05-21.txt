@@ -1,0 +1,14 @@
+127.0.0.1 - - [21/May/2021:13:20:00 +0530] "GET / HTTP/1.1" 404 751
+127.0.0.1 - - [21/May/2021:13:27:10 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/May/2021:13:27:12 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 87
+127.0.0.1 - - [21/May/2021:15:42:28 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/May/2021:15:42:29 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 87
+0:0:0:0:0:0:0:1 - - [21/May/2021:15:42:40 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [21/May/2021:15:51:30 +0530] "GET /spring-mvc-demo/processForm?studentName=vehaan HTTP/1.1" 404 682
+127.0.0.1 - - [21/May/2021:15:55:07 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [21/May/2021:15:55:08 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 87
+0:0:0:0:0:0:0:1 - - [21/May/2021:15:55:42 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [21/May/2021:15:55:47 +0530] "GET /spring-mvc-demo/processForm?studentName=Vehaan HTTP/1.1" 200 128
+0:0:0:0:0:0:0:1 - - [21/May/2021:15:57:11 +0530] "GET /spring-mvc-demo/ HTTP/1.1" 200 136
+0:0:0:0:0:0:0:1 - - [21/May/2021:15:57:12 +0530] "GET /spring-mvc-demo/showForm HTTP/1.1" 200 273
+0:0:0:0:0:0:0:1 - - [21/May/2021:15:57:16 +0530] "GET /spring-mvc-demo/processForm?studentName=Sumit HTTP/1.1" 200 127
