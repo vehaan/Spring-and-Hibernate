@@ -1,3 +1,5 @@
 INDEX VERSION 1.131
 D:\javaworksEE2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\237508677.index
 \spring-mvc-demo\src
+D:\javaworksEE2\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\715998994.index
+\mycoolwebapp\src\main\resources
