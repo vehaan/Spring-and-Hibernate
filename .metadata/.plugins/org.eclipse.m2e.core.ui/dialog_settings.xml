@@ -85,4 +85,18 @@
 	</section>
 	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
 	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Users\91807\Downloads\spring-crm-rest-demo\spring-crm-rest-demo"/>
+			<item value="C:\Users\91807\Downloads\jackson-databinding-json-demo\jackson-databinding-json-demo"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
 </section>
